@@ -1,4 +1,8 @@
+<p align="center"><img src="assets/cs-offline-logo.jpg" alt="Computer Science Offline" width="600"></p>
+
 # Talent Stack
+
+*Part of the **Computer Science Offline** project: hands-on, screen-free activities that teach computer science.*
 
 **Talent Stack** is a series of classroom card games about tech careers for middle school students (grades 6–8). In every edition, teams act as hiring managers. They draft a three-person team from career cards, seeing only the job title, salary tier and tech skills, to complete a Project Quest on a budget. Then they flip the cards to audit the real salaries, degrees and job duties.
 
@@ -15,6 +19,7 @@ One game takes about 20 minutes, which fits a single class activity.
 ```
 talent_stack_card_game/
 ├── README.md                  ← you are here
+├── assets/                    ← Computer Science Offline logo
 ├── shared/                    ← used by every edition
 │   ├── core-rules.md          ← the game engine every edition shares, and balance rules
 │   └── icons/retro/           ← retro pixel icons for the Round 2 trade abilities
