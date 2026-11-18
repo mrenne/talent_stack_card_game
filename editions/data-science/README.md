@@ -2,7 +2,7 @@
 
 Students hire a data science team for real-world projects such as wildfire alerts, outbreak tracking and esports leagues. They learn what data careers do, what they pay, and what schooling they need.
 
-- **Players:** 2–4 teams per deck
+- **Players:** 2–3 teams per deck
 - **Time:** about 20 minutes
 - **Grades:** 6–8
 - **Status:** prototype. Core rules have been playtested; the Market Event, Secret Company and quest 4–12 cards have not yet.

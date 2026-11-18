@@ -6,12 +6,12 @@ Every Talent Stack edition uses the same game engine. An edition changes the **c
 
 | Part | How it works |
 |---|---|
-| **Teams** | 2–4 teams per deck. At a table of 3–4 students, each student is a team. At a table of 5, two students pair up. |
+| **Teams** | 2–3 teams per deck, so at least 3 career cards stay in the pool for the Round 2 trade. At a table of 2–3 students, each student is a team. At a table of 4–6, students pair up. |
 | **Blind draft** | Snake order (A → B → C → C → B → A …) until every team has 3 career cards. Teams choose from card fronts only. |
 | **Audit** | Flip the cards and score: **+5** per required role, **+1** per stand-in (a card that shares a tech icon with a missing role), **+3** at or under the budget cap or **−1 per $10,000 over**, and **+1 / +3** tech synergy (most-shared icon on 2 or 3 cards). |
 | **Round 2 trade** | Lowest Round 1 score goes first. Each team makes one trade with the pool. Retro icons on card backs give trade abilities: **Call Out** (rotary phone), **Save** (floppy disk), **Rewind** (VHS tape), **Preview** (CRT computer). The icons are in [`icons/retro`](icons/retro). |
 | **Trade rulings** | Rewind only undoes a pool trade. A team that gets Called Out still makes its own trade. A card just taken by a Call Out can't be Called Out again that round. Abilities belong to the card. |
-| **Team pitch** | 30 seconds, scored 0–3: a duty from every card, why the team fits the quest, finished on time. |
+| **Team pitch** | 30 seconds, judged by the teacher and scored 0–3: a duty from every card, why the team fits the quest, finished on time. |
 | **Final score** | Final audit + Secret Company bonus + pitch. Ties go to the **lower** total degree points (Bachelor's 1, Master's 2, Ph.D. 3). |
 | **Replay decks** | One **Market Event** card is drawn face-up and changes the game for everyone. Each team draws one **Secret Company** card that pays a bonus at the end. |
 
