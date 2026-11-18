@@ -15,7 +15,7 @@ Replaces Section 3, Phase 2 ("The Audit Flip & Score") and the Sample Project Qu
 
 - Use a **snake draft** (A → B → C → C → B → A → A → B → C) so the first pick isn't a permanent advantage.
 - Randomize first pick each round (roll a die, or give it to the lowest scorer from the previous round).
-- **Teams per deck: 2 to 4** (settled). The deck has 12 cards, so 4 teams × 3 cards uses all of them. At a table of 3–4 students, each student is a team. At a table of 5, two students pair up, making 4 teams.
+- **Teams per deck: 2 to 3** (settled). With 4 teams, all 12 cards would be drafted and the pool would be empty for the Round 2 trade. With 3 teams, 3 cards stay in the pool; with 2 teams, 6 do. At a table of 2–3 students, each student is a team. At a table of 4–6, students pair up.
 
 ## Audit scoring (max 19 points)
 
@@ -110,7 +110,7 @@ All 324 combinations (3 quests × 12 markets × 9 company options, counting no c
 
 ## Pitch scoring (max 3 points, replaces the class vote)
 
-The facilitator awards 1 point for each:
+**The teacher is the judge.** The teacher awards 1 point for each:
 
 - [ ] Named a real job duty from the back of **every** card.
 - [ ] Explained **why** this team fits the quest (not just listed roles).
