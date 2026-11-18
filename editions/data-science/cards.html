@@ -17,10 +17,6 @@
   --display: "Josefin Sans", "Century Gothic", "Futura", sans-serif;
   --body: "Lexend", "Segoe UI", system-ui, sans-serif;
 }
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) { --bg: #13141c; --fg: #e8eaf2; --muted: #9ba1b5; --line: #2c2f3e; --chip: #1d1f2b; --accent: #f2a541; color-scheme: dark; }
-}
-:root[data-theme="dark"] { --bg: #13141c; --fg: #e8eaf2; --muted: #9ba1b5; --line: #2c2f3e; --chip: #1d1f2b; --accent: #f2a541; color-scheme: dark; }
 
 body { background: var(--bg); color: var(--fg); font-family: var(--body); }
 .screen { max-width: 1180px; margin: 0 auto; padding-block: 28px 56px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); display: grid; gap: 28px; }
