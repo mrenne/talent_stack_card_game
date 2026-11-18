@@ -5,6 +5,7 @@ Students hire a data science team for real-world projects such as wildfire alert
 - **Players:** 2–3 teams per deck
 - **Time:** about 20 minutes
 - **Grades:** 6–8
+- **Series:** [Talent Stack](../../README.md), part of [Computer Science Offline](https://csoffline.org)
 - **Status:** prototype. Core rules have been playtested; the Market Event, Secret Company and quest 4–12 cards have not yet.
 
 ## Contents
