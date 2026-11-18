@@ -19,8 +19,6 @@
   --display: "Josefin Sans", "Century Gothic", "Futura", sans-serif;
   --body: "Lexend", "Segoe UI", system-ui, sans-serif;
 }
-@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg: #13141c; --muted: #9ba1b5; color-scheme: dark; } }
-:root[data-theme="dark"] { --bg: #13141c; --muted: #9ba1b5; color-scheme: dark; }
 
 body { background: var(--bg); font-family: var(--body); }
 .desk { padding-block: 24px 48px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); display: grid; justify-items: center; gap: 12px; }
